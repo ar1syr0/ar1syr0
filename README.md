@@ -21,4 +21,3 @@ Good vibes (beta version), humour enabled, self-sarcasm running in production.
 
 - **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer.git)**
   JSON Reader – Because Raw JSON at midnight is a Horror Movie.
-https://github.com/ar1syr0/companion/

@@ -2,6 +2,8 @@
 
 Systems Analyst. I connect business systems for a living, then build tools, automations and home-lab projects in whatever spare time survives. Release schedule: a few times a year, unfortunately.
 
+(only personal projects here, well some of them)
+
 [![Website](https://img.shields.io/badge/Website-0C6470?style=flat&logo=githubpages&logoColor=white)](https://ar1syr0.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristeidis-syrogiannis)
 

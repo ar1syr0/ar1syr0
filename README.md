@@ -1,26 +1,21 @@
-Hello friends 🤖  
-Just your friendly neighbourhood tech enthusiast.
+## Aristeidis Syrogiannis
 
-I record, experiment, build questionable side projects at 2AM, and occasionally indulge in some dangerously confident vibe coding.
+Systems Analyst. I connect business systems for a living, then build tools, automations and home-lab projects in whatever spare time survives. Release schedule: a few times a year, unfortunately.
 
-Good vibes (beta version), humour enabled, self-sarcasm running in production. 
+[![Website](https://img.shields.io/badge/Website-0C6470?style=flat&logo=githubpages&logoColor=white)](https://ar1syr0.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristeidis-syrogiannis)
 
-## Projects (Please Lower Expectations… Like, All the Way Down)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-555555?style=flat)
+![UML](https://img.shields.io/badge/UML-555555?style=flat)
 
-  - **[Hermes Agent](https://github.com/ar1syr0/Hermes)**
-  Hermes Agent with 4 profiles (Manager, Analyst, Engineer, Ops) for general/daily tasks and, most importantly, to act as a sane guide while I build the whole thing…     because apparently I need "AI" to supervise me while I build "AI".
+## Projects
 
-- **[Project Companion](https://github.com/ar1syr0/companion/)**
-  Travel mini PC — local backup hub, TrueNAS relay, failsafe desktop, hotel-room retro console (manual and Ansible setup).
-
-- **[the_watcher](https://github.com/ar1syr0/the_watcher)**
-  A self-contained network watchdog and incident logger for the Arduino UNO R4 WiFi.
-
-- **[Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard)**
-   Created my own Fitbit and Cronometer dashboard because… why not? Okay, that’s a lie — I actually needed it. 😄
-
-- **[macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/)**
-  apple-we-need-to-talk — About Chess. And Stocks. And Tips. And all your friends.
-
-- **[HAR Analyzer](https://github.com/ar1syr0/har-analyzer.git)**
-  JSON Reader – Because Raw JSON at midnight is a Horror Movie.
+- [Hermes Agent](https://github.com/ar1syr0/Hermes): a personal AI assistant with four profiles (Manager, Analyst, Engineer, Ops).
+- [Project Companion](https://github.com/ar1syr0/companion/): a travel mini PC for backup, file relay and failsafe desktop use. Includes Ansible setup.
+- [the_watcher](https://github.com/ar1syr0/the_watcher): a network watchdog and incident logger for the Arduino UNO R4 WiFi.
+- [Fit Dashboard](https://github.com/ar1syr0/Fit_Dashboard): a personal dashboard combining Fitbit and Cronometer data.
+- [HAR Analyzer](https://github.com/ar1syr0/har-analyzer): makes HAR and JSON files easy to read and inspect.
+- [macOS Full Bloat Cremator](https://github.com/ar1syr0/MacOS_Bloat_Cremator/): removes unused bundled macOS apps.

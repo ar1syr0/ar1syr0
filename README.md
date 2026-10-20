@@ -5,11 +5,6 @@ Systems Analyst. I connect business systems for a living, then build tools, auto
 [![Website](https://img.shields.io/badge/Website-0C6470?style=flat&logo=githubpages&logoColor=white)](https://ar1syr0.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aristeidis-syrogiannis)
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN-555555?style=flat)
-![UML](https://img.shields.io/badge/UML-555555?style=flat)
 
 ## Projects
 

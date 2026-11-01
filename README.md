@@ -39,6 +39,12 @@ I connect business systems for a living, then build tools, automations and home-
 
 ### 🚀 Projects
 
+#### 🧠 AI & automation
+
+**🤖 [Hermes Agent fleet](https://github.com/ar1syr0/Hermes)** · Four agents on Hermes Agent: a manager, plus analyst, engineer and ops, each on a different model and provider. The manager has no terminal and no file access on purpose, so delegating is the only thing it can do. Some would call that realistic. Shared task board, controlled from Telegram.
+
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-555555?style=flat) ![Multi-agent](https://img.shields.io/badge/Multi--agent-6E40C9?style=flat) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+
 #### 🏠 Home lab & hardware
 
 **🧳 [Project Companion](https://github.com/ar1syr0/companion/)** · Travel mini PC built around one engineering requirement: it must fit in my cable organiser. Collects backups from every device in the room and relays them home to TrueNAS over Tailscale, doubles as a failsafe desktop, and runs retro games on the hotel TV, because it was just sitting there. Rebuilt from a single Ansible playbook.
@@ -48,12 +54,6 @@ I connect business systems for a living, then build tools, automations and home-
 **👁️ [The Watcher](https://github.com/ar1syr0/the_watcher)** · Network watchdog on a single Arduino UNO R4 WiFi, so when the internet drops I know exactly whom to blame: Wi-Fi, router, ISP or endpoint. Logs every incident and serves its own dashboard and JSON API straight from the board.
 
 ![Arduino](https://img.shields.io/badge/Arduino_UNO_R4-00878F?style=flat&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-#### 🧠 AI & automation
-
-**🤖 [Hermes Agent fleet](https://github.com/ar1syr0/Hermes)** · Four agents on Hermes Agent: a manager, plus analyst, engineer and ops, each on a different model and provider. The manager has no terminal and no file access on purpose, so delegating is the only thing it can do. Some would call that realistic. Shared task board, controlled from Telegram.
-
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-555555?style=flat) ![Multi-agent](https://img.shields.io/badge/Multi--agent-6E40C9?style=flat) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 #### 📊 Data & tools
 

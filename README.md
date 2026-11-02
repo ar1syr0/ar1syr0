@@ -1,4 +1,4 @@
-# Hi, I'm Aristeidis 👋
+# Hi, I'm Aris 👋
 
 **Systems Analyst · Intelligent Automation · Data · Home lab**
 
